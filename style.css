@@ -46,9 +46,7 @@ div {
   display: block;
   float: left;
   background: red;
-  width: 100%;
   bottom: 0;
-  height: 25%;
   width: 25%;
   text-align: center;
 }
