@@ -47,5 +47,6 @@ p {
   float: left;
   background: red;
   width: 100%;
+  bottom: 0;
 }
 
