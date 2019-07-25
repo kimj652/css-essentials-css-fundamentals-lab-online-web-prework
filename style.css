@@ -42,16 +42,13 @@ p {
   text-align: center;
 }
 
-#details {
-  display: block;
+div {
+    display: block;
   float: left;
   background: red;
   width: 100%;
   bottom: 0;
   height: 25%;
-}
-
-#details div {
   width: 25%;
   text-align: center;
 }
