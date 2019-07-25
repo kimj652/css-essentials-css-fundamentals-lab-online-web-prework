@@ -37,7 +37,7 @@ a {
   background-color: gray;
 }
 
-p {
+#featured-property p {
   width: 800px;
   text-align: center;
 }
