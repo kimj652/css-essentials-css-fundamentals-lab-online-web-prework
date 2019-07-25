@@ -47,7 +47,7 @@ p {
   float: left;
 }
 
-div {
+#details div {
   background: red;
   text-align:center;
   width: 25%;
